@@ -1,3 +1,6 @@
+
+
+
 ---
 
 ---
@@ -12,10 +15,10 @@
 
 🚀 **Features**
 
-⚡ Super-fast conversions  
-🤓 Easy for students & beginners  
-🐧 Runs on Linux, Windows, Mac  
-🎉 No external libraries, just pure C  
+- ⚡ Super-fast conversions (integer-based)  
+- 🤓 Friendly for students & beginners  
+- 🐧 Cross-platform: Linux, Windows, Mac (with a C compiler)  
+- 🎉 Pure C — no external libraries  
 
 ---
 
@@ -35,8 +38,15 @@ Number Conversions for 69: Binary      : 1000101 Octal       : 105 Hexadecimal :
 🛠️ **How to Compile & Run**
 
 ```bash
+# Compile
 gcc converter.c -o converter
+
+# Run
 ./converter
+
+# On Windows (Command Prompt)
+# gcc converter.c -o converter.exe
+# converter.exe
 
 
 ---
@@ -45,7 +55,7 @@ gcc converter.c -o converter
 
 📦 COA
  ┣ 📜 converter.c   # Main C source code
- ┣ 📜 README.md     # Documentation
+ ┣ 📜 README.md     # Documentation (this file)
 
 
 ---
@@ -56,7 +66,8 @@ gcc converter.c -o converter
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="350px" alt="Matrix numbers falling"/>
-</p>  
+  <img src="https://media.giphy.com/media/26gslU06rxVobp1ZS/giphy.gif" width="300px" alt="Calculator animation"/>
+</p>
 ```
 ---
+
